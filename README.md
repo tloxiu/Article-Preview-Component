@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [[https://article-preview-component-alpha-lac.vercel.app/](https://article-preview-component-alpha-lac.vercel.app/]
+- Live Site URL: [[https://article-preview-component-alpha-lac.vercel.app/](https://nft-preview-card-component-six-beta.vercel.app/)]
 
 
 ## Built with
