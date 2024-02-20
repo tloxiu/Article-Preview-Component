@@ -234,6 +234,8 @@ main{
 }
 
 .drawers-img-div{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
     width: 43.125rem;
     height: 17.5rem;  
 }
